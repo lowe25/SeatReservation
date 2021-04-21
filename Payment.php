@@ -56,7 +56,7 @@ require_once 'php/init.php';
           <a href="booking.php" type="button" class="btn cancel">Back to Booking</a>
         </div>
         <div>
-        <input type="submit" class="btn btn-light" value="Proceed to Payment">       
+        <input type="submit" class="btn btn-light" value="Pay Booked Seats">       
          </div>
       </div>
     </div>
